@@ -5,6 +5,12 @@ reposity for an in-dev, open-source notepad
 - [Cloud Drive because too big for github (just over 25 MB)](https://mega.nz/folder/RDlQBKyA#HgHEIrvoq27ksFYWgduxtw)
 
 ⬇⬇⬇ Link for .py file ⬇⬇⬇
-- [Here](https://github.com/theClawsmos/pypad/tree/main/notes.py)
+- [Github Link](https://github.com/theClawsmos/pypad/tree/main/notes.py)
+  
 ⬇⬇⬇ Instructions ⬇⬇⬇
-- [Here](https://github.com/theClawsmos/pypad/tree/main/How%20To%20Download)
+- [Github Link](https://github.com/theClawsmos/pypad/tree/main/How%20To%20Download)
+
+# HELP NEEDED
+If you would be so kind as to submit issues and PR, tHaNk YoU!!!
+
+- [Link for CoC, Contributing, License, and Security](https://github.com/theClawsmos/pypad/tree/main/Github%20-%20Needed%20Files)
